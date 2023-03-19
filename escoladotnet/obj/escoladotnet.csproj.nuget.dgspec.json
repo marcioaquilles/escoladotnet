@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\escoladotnet.csproj": {}
+  },
+  "projects": {
+    "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\escoladotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\escoladotnet.csproj",
+        "projectName": "escoladotnet",
+        "projectPath": "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\escoladotnet.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            },
+            "bootstrap.sass": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

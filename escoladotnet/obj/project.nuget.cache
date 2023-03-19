@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBt2PrZfwkJlfmhBb1oUGPMIYqKULaiOPRhO3FrOPxK0wqKMirMANzfPC5Ikhaes39hjnroj9YGrOEbrkaHSnw==",
+  "success": true,
+  "projectFilePath": "D:\\VIDEOS\\Módulo Web\\Módulo Web - Competência 11\\ProjetoWeb\\escolasenai\\escoladotnet\\escoladotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcio\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
+    "C:\\Users\\Marcio\\.nuget\\packages\\bootstrap.sass\\5.2.3\\bootstrap.sass.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
